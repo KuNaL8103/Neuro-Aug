@@ -27,7 +27,7 @@ python imgaug.py input_images augmented_images 5
 This command will:
 
 1. Read all JPG images from the `input_images` folder
-2. Create 5 augmented copies of each image
+2. Create 4 augmented copies of each image
 3. Save the augmented images in the `augmented_images` folder
 
 ### Word Augmentation
@@ -41,7 +41,7 @@ python textaug.py <input .txt file> <output .txt file> <number of augmented word
 Example:
 
 ```
-python textaug.py input_words.txt augmented_words.txt 5
+python textaug.py input_words.txt augmented_words.txt 4
 ```
 
 This command will:
