@@ -4,7 +4,7 @@ Ever feel that your dataset is too small? Use NeuroAug to generate some augmente
 
 ## Requirements
 
-- Python 3.6+
+- Python
 - PIL
 - googletrans
 
